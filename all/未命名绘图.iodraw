@@ -194,6 +194,9 @@
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-41" value="回滚旧模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="700" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MhOh4Yo0Ekb7vFYHBoku-78" value="UI元素捕获&lt;div&gt;（屏幕截图+DOM/UI层级树）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="480" y="50" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
