@@ -86,7 +86,7 @@
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-21" value="W_total＜0.6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="MhOh4Yo0Ekb7vFYHBoku-20">
           <mxGeometry x="-0.2848" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-11" value="综合置信度&lt;div&gt;（W_total）&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;fontColor=#393C56;strokeColor=#E07A5F;labelBackgroundColor=none;" vertex="1" parent="1">
