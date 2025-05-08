@@ -70,7 +70,7 @@
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-17" value="W_toral≥0.85" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="MhOh4Yo0Ekb7vFYHBoku-16">
           <mxGeometry x="-0.2735" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="MhOh4Yo0Ekb7vFYHBoku-11" target="MhOh4Yo0Ekb7vFYHBoku-13">
