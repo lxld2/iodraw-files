@@ -47,7 +47,7 @@
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhOh4Yo0Ekb7vFYHBoku-11" target="MhOh4Yo0Ekb7vFYHBoku-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MhOh4Yo0Ekb7vFYHBoku-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MhOh4Yo0Ekb7vFYHBoku-20">
+        <mxCell id="MhOh4Yo0Ekb7vFYHBoku-21" value="W_total＜0.6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MhOh4Yo0Ekb7vFYHBoku-20">
           <mxGeometry x="-0.2848" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
