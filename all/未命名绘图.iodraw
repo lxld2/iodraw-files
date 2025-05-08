@@ -26,7 +26,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhOh4Yo0Ekb7vFYHBoku-5" target="MhOh4Yo0Ekb7vFYHBoku-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="190" />
+              <mxPoint x="360" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-5" value="视觉特征提取&lt;div&gt;（MobileNetV3-Small）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="110" y="150" width="140" height="30" as="geometry" />
@@ -37,6 +42,14 @@
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-6" value="文本特征提取&lt;div&gt;(OCR+文本解析)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="150" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MhOh4Yo0Ekb7vFYHBoku-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhOh4Yo0Ekb7vFYHBoku-7" target="MhOh4Yo0Ekb7vFYHBoku-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="190" />
+              <mxPoint x="360" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-7" value="结构特征提取&lt;div&gt;（DOM/UI层级解析器）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="470" y="150" width="140" height="30" as="geometry" />
         </mxCell>
@@ -44,7 +57,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-8" value="构建特征池&lt;div&gt;（设置基础权重+归一化）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="280" y="210" width="160" height="30" as="geometry" />
+          <mxGeometry x="280" y="200" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhOh4Yo0Ekb7vFYHBoku-9" target="MhOh4Yo0Ekb7vFYHBoku-11">
           <mxGeometry relative="1" as="geometry" />
