@@ -182,13 +182,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-39" value="版本回滚判断" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="490" y="690" width="140" height="50" as="geometry" />
+          <mxGeometry x="490" y="670" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-40" value="保持新模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="700" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="680" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-41" value="回滚旧模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="750" width="80" height="30" as="geometry" />
+          <mxGeometry x="300" y="720" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MhOh4Yo0Ekb7vFYHBoku-78" target="MhOh4Yo0Ekb7vFYHBoku-2">
           <mxGeometry relative="1" as="geometry" />
