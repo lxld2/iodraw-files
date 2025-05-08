@@ -23,10 +23,10 @@
           <mxGeometry x="490" y="130" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-8" value="构建特征池&lt;div&gt;（设置基础权重+归一化）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="290" y="180" width="140" height="30" as="geometry" />
+          <mxGeometry x="280" y="180" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MhOh4Yo0Ekb7vFYHBoku-9" value="环境参数感知&lt;div&gt;（屏幕分辨率、运行平台等）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="290" y="230" width="140" height="30" as="geometry" />
+        <mxCell id="MhOh4Yo0Ekb7vFYHBoku-9" value="环境参数感知+动态权重计算&lt;div&gt;（屏幕分辨率、运行平台等）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-10" value="动态权重计算与定位策略的生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="260" y="280" width="200" height="30" as="geometry" />
