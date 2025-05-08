@@ -119,6 +119,11 @@
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="MhOh4Yo0Ekb7vFYHBoku-23" target="MhOh4Yo0Ekb7vFYHBoku-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MhOh4Yo0Ekb7vFYHBoku-98" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="MhOh4Yo0Ekb7vFYHBoku-29">
+          <mxGeometry x="-0.2786" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="MhOh4Yo0Ekb7vFYHBoku-23" target="MhOh4Yo0Ekb7vFYHBoku-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -163,18 +168,13 @@
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="MhOh4Yo0Ekb7vFYHBoku-39" target="MhOh4Yo0Ekb7vFYHBoku-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MhOh4Yo0Ekb7vFYHBoku-44" value="性能达标" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="MhOh4Yo0Ekb7vFYHBoku-42">
-          <mxGeometry x="-0.1532" relative="1" as="geometry">
-            <mxPoint x="-3" as="offset" />
+        <mxCell id="MhOh4Yo0Ekb7vFYHBoku-99" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" connectable="0" parent="MhOh4Yo0Ekb7vFYHBoku-42">
+          <mxGeometry x="-0.0623" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" edge="1" parent="1" source="MhOh4Yo0Ekb7vFYHBoku-39" target="MhOh4Yo0Ekb7vFYHBoku-41">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MhOh4Yo0Ekb7vFYHBoku-49" value="性能下降" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#393C56;" vertex="1" connectable="0" parent="MhOh4Yo0Ekb7vFYHBoku-48">
-          <mxGeometry x="0.4565" y="3" relative="1" as="geometry">
-            <mxPoint x="2" y="-3" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-39" value="版本回滚判断" style="rhombus;whiteSpace=wrap;html=1;fillColor=#F2CC8F;fontColor=#393C56;strokeColor=#E07A5F;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="490" y="670" width="140" height="50" as="geometry" />
