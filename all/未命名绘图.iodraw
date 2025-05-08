@@ -34,7 +34,7 @@
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-12" value="直接定位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="350" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MhOh4Yo0Ekb7vFYHBoku-13" value="文本特征提取&lt;div&gt;(OCR+文本解析)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;glass=0;shadow=0;" vertex="1" parent="1">
+        <mxCell id="MhOh4Yo0Ekb7vFYHBoku-13" value="交叉验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;glass=0;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="350" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MhOh4Yo0Ekb7vFYHBoku-14" value="文本特征提取&lt;div&gt;(OCR+文本解析)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;glass=0;shadow=0;" vertex="1" parent="1">
