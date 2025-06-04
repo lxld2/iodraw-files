@@ -19,7 +19,7 @@
         <mxCell id="YJyiT1P-CG5-7eHU3rSj-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;dashed=1;dashPattern=8 8;" vertex="1" parent="YJyiT1P-CG5-7eHU3rSj-14">
           <mxGeometry width="900" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YJyiT1P-CG5-7eHU3rSj-16" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;用户交互与展示层&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Comic Sans MS;" vertex="1" parent="YJyiT1P-CG5-7eHU3rSj-14">
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-16" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;控制与调度核心层&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Comic Sans MS;" vertex="1" parent="YJyiT1P-CG5-7eHU3rSj-14">
           <mxGeometry width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YJyiT1P-CG5-7eHU3rSj-17" value="" style="group" vertex="1" connectable="0" parent="1">
@@ -41,7 +41,7 @@
           <mxGeometry width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YJyiT1P-CG5-7eHU3rSj-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="50" y="-70" width="900" height="120" as="geometry" />
+          <mxGeometry x="10" y="460" width="900" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YJyiT1P-CG5-7eHU3rSj-24" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;dashed=1;dashPattern=8 8;" vertex="1" parent="YJyiT1P-CG5-7eHU3rSj-23">
           <mxGeometry width="900" height="120" as="geometry" />
