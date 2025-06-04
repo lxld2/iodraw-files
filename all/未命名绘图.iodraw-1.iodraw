@@ -7,7 +7,7 @@
         <mxCell id="YJyiT1P-CG5-7eHU3rSj-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="260" y="-30" width="900" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YJyiT1P-CG5-7eHU3rSj-10" value="用户交互与展示层" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Verdana;" vertex="1" parent="1">
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-10" value="用户交互与展示层" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-10" y="-40" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
