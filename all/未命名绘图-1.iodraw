@@ -49,7 +49,7 @@
         <mxCell id="dXUm9IKjIQva_JSsp9Qy-30" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="-180" y="40" width="1120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dXUm9IKjIQva_JSsp9Qy-31" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;用户交互与展示层&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="dXUm9IKjIQva_JSsp9Qy-31" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;核心控制与调度层&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="-180" y="40" width="90" height="100" as="geometry" />
         </mxCell>
       </root>
