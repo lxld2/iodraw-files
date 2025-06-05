@@ -1,0 +1,58 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="CFuEca3UCnZPaWREXfFw">
+    <mxGraphModel dx="1701" dy="1302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-12" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="10" y="-110" width="1120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;dashed=1;dashPattern=8 8;" parent="YJyiT1P-CG5-7eHU3rSj-12" vertex="1">
+          <mxGeometry width="1120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-10" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;用户交互与展示层&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Comic Sans MS;" parent="YJyiT1P-CG5-7eHU3rSj-12" vertex="1">
+          <mxGeometry width="199.11111111111111" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-29" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" parent="YJyiT1P-CG5-7eHU3rSj-12" vertex="1">
+          <mxGeometry x="236.44444444444446" y="25" width="199.11111111111111" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-14" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="10" y="40" width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;dashed=1;dashPattern=8 8;" parent="YJyiT1P-CG5-7eHU3rSj-14" vertex="1">
+          <mxGeometry width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-16" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;控制与调度核心层&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Comic Sans MS;" parent="YJyiT1P-CG5-7eHU3rSj-14" vertex="1">
+          <mxGeometry width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-17" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="10" y="200" width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;dashed=1;dashPattern=8 8;" parent="YJyiT1P-CG5-7eHU3rSj-17" vertex="1">
+          <mxGeometry width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-19" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;分布式压测执行层&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Comic Sans MS;" parent="YJyiT1P-CG5-7eHU3rSj-17" vertex="1">
+          <mxGeometry width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-20" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="10" y="360" width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-21" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;dashed=1;dashPattern=8 8;" parent="YJyiT1P-CG5-7eHU3rSj-20" vertex="1">
+          <mxGeometry width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-22" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;数据处理与存储&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Comic Sans MS;" parent="YJyiT1P-CG5-7eHU3rSj-20" vertex="1">
+          <mxGeometry width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-23" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="10" y="520" width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-24" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;dashed=1;dashPattern=8 8;" parent="YJyiT1P-CG5-7eHU3rSj-23" vertex="1">
+          <mxGeometry width="900" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YJyiT1P-CG5-7eHU3rSj-25" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;基础设施与支撑&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Comic Sans MS;" parent="YJyiT1P-CG5-7eHU3rSj-23" vertex="1">
+          <mxGeometry width="160" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
