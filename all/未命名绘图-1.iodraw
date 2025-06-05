@@ -137,7 +137,7 @@
           <mxGeometry x="-53" y="206" width="34.85" height="39" as="geometry" />
         </mxCell>
         <mxCell id="dXUm9IKjIQva_JSsp9Qy-87" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;arial&quot;&gt;任务管理&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#556B82;fontFamily=Helvetica;fontStyle=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-60.000000000000014" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="-70.00000000000001" y="240" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
