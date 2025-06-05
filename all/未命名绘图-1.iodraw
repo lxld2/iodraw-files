@@ -109,11 +109,11 @@
         <mxCell id="dXUm9IKjIQva_JSsp9Qy-23" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;API管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;container=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="-50" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dXUm9IKjIQva_JSsp9Qy-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;container=0;" vertex="1" parent="1">
+        <mxCell id="dXUm9IKjIQva_JSsp9Qy-24" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;资源池管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;container=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="-50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dXUm9IKjIQva_JSsp9Qy-78" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;系统管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;container=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-40" width="120" height="40" as="geometry" />
+          <mxGeometry x="790" y="-50" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
