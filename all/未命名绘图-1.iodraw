@@ -33,7 +33,7 @@
           <mxGeometry x="600" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dXUm9IKjIQva_JSsp9Qy-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-170" y="-90" width="1120" height="100" as="geometry" />
+          <mxGeometry x="-180" y="-90" width="1120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YJyiT1P-CG5-7eHU3rSj-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;dashed=1;dashPattern=8 8;" parent="dXUm9IKjIQva_JSsp9Qy-19" vertex="1">
           <mxGeometry width="1120" height="100" as="geometry" />
@@ -48,7 +48,7 @@
           <mxGeometry x="130" y="20" width="30.43" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dXUm9IKjIQva_JSsp9Qy-11" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;arial&quot; style=&quot;font-size: 14px;&quot;&gt;统一操作界面&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#556B82;fontFamily=Helvetica;fontStyle=1" vertex="1" parent="dXUm9IKjIQva_JSsp9Qy-19">
-          <mxGeometry x="119.99999999999999" y="50" width="110" height="30" as="geometry" />
+          <mxGeometry x="109.99999999999999" y="60" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
