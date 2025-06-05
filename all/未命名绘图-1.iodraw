@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YJyiT1P-CG5-7eHU3rSj-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="-90" width="1120" height="90" as="geometry" />
+          <mxGeometry x="-90" y="-90" width="1120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YJyiT1P-CG5-7eHU3rSj-10" value="&lt;h2&gt;&lt;font face=&quot;Helvetica&quot;&gt;用户交互与展示层&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#EBF8FF;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="-90" width="150" height="80" as="geometry" />
+          <mxGeometry x="-90" y="-90" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YJyiT1P-CG5-7eHU3rSj-29" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;任务可视化编排&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" parent="1" vertex="1">
           <mxGeometry x="770" y="200" width="120" height="40" as="geometry" />
