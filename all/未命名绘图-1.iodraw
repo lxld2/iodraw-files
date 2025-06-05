@@ -238,7 +238,7 @@
         <mxCell id="dXUm9IKjIQva_JSsp9Qy-126" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;容器化资源池&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="dXUm9IKjIQva_JSsp9Qy-123">
           <mxGeometry x="70.00000000000001" y="20" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dXUm9IKjIQva_JSsp9Qy-127" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;流式计算引擎&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="dXUm9IKjIQva_JSsp9Qy-123">
+        <mxCell id="dXUm9IKjIQva_JSsp9Qy-127" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;立体监控&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="dXUm9IKjIQva_JSsp9Qy-123">
           <mxGeometry x="200" y="20" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dXUm9IKjIQva_JSsp9Qy-128" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;混合存储方案&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;" vertex="1" parent="dXUm9IKjIQva_JSsp9Qy-123">
