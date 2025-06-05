@@ -233,10 +233,10 @@
           <mxGeometry x="-70.00000000000001" y="360" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dXUm9IKjIQva_JSsp9Qy-119" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;消息中间件集群&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;container=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="330" width="120" height="40" as="geometry" />
+          <mxGeometry x="20" y="330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dXUm9IKjIQva_JSsp9Qy-120" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;流式计算引擎&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;container=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="330" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dXUm9IKjIQva_JSsp9Qy-121" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;混合存储方案&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;fillColor=#ffffff;arcSize=24;absoluteArcSize=1;imageWidth=64;imageHeight=64;strokeWidth=1.5;container=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="330" width="120" height="40" as="geometry" />
