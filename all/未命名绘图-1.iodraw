@@ -36,7 +36,7 @@
           <mxGeometry x="100" y="-62.5" width="30.43" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dXUm9IKjIQva_JSsp9Qy-11" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-family: arial; font-size: x-small; background-color: initial;&quot;&gt;&lt;font&gt;Label&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#556B82;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-62" width="50" height="30" as="geometry" />
+          <mxGeometry x="90.22" y="-50" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
