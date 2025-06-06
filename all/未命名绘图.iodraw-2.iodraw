@@ -17,7 +17,7 @@
           <mxGeometry x="80" y="297.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MKN31n0gTquyPekRrOu1-7" value="数据清洗&lt;div&gt;与转换&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="281.25" width="90" height="90" as="geometry" />
+          <mxGeometry x="180" y="270" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MKN31n0gTquyPekRrOu1-8" value="按维度分区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="297.5" width="80" height="35" as="geometry" />
