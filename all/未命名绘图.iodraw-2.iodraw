@@ -40,7 +40,7 @@
         <mxCell id="MKN31n0gTquyPekRrOu1-15" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;数据源: &lt;span style=&quot;color: #a22889;&quot;&gt;Kafka&lt;/span&gt;消息通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="270" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MKN31n0gTquyPekRrOu1-16" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;数据源: &lt;span style=&quot;color: #a22889;&quot;&gt;Kafka&lt;/span&gt;消息通道&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MKN31n0gTquyPekRrOu1-16" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;时序数据库&lt;span style=&quot;font-weight: bold;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #aa8500;&quot;&gt;Prometheus&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="180" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
