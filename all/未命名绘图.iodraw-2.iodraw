@@ -23,7 +23,7 @@
           <mxGeometry x="290" y="297.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MKN31n0gTquyPekRrOu1-9" value="应用窗口函数" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="297.5" width="80" height="35" as="geometry" />
+          <mxGeometry x="390" y="297.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MKN31n0gTquyPekRrOu1-10" value="窗口内聚合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="297.5" width="80" height="35" as="geometry" />
