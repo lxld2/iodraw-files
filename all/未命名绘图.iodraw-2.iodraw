@@ -28,8 +28,8 @@
         <mxCell id="MKN31n0gTquyPekRrOu1-10" value="窗口内聚合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="297.5" width="80" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="MKN31n0gTquyPekRrOu1-12" value="数据清洗&lt;div&gt;与转换&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="291.25" width="80" height="67.5" as="geometry" />
+        <mxCell id="MKN31n0gTquyPekRrOu1-12" value="多维关联与&lt;div&gt;异常检测&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="281.25" width="80" height="67.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
